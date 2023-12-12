@@ -22,7 +22,7 @@ __decorate([
 __decorate([
     Field(() => Int),
     __metadata("design:type", Number)
-], Intern.prototype, "timeWorking", void 0);
+], Intern.prototype, "time_working", void 0);
 __decorate([
     Field(() => Company),
     __metadata("design:type", Company)

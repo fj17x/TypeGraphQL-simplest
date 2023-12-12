@@ -8,7 +8,7 @@ export default class Intern {
   @Field(() => String)
   name: string
   @Field(() => Int)
-  timeWorking: number
+  time_working: number
   @Field(() => Company)
   company: Company
 }
